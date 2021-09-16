@@ -1,8 +1,0 @@
-total 552
-drwxr-xr-x  14 solzhang  staff     448  9 16 22:27 .git
--rw-r--r--   1 solzhang  staff     434  9 16 22:11 git.test.dev.txt
--rw-r--r--   1 solzhang  staff  131650  9 16 22:25 git.test.dev2.help.txt
--rw-r--r--   1 solzhang  staff  134401  9 16 22:26 git.test.dev3.list.txt
--rw-r--r--   1 solzhang  staff     188  9 16 22:11 git.test2.dev.txt
--rw-r--r--   1 solzhang  staff       0  9 16 22:27 git.test2.dev3.list.txt
--rw-r--r--   1 solzhang  staff     260  9 16 22:22 git.test4.dev.txt
