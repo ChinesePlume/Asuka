@@ -1,0 +1,11 @@
+diff --git a/README.md b/README.md
+deleted file mode 100644
+index 0254d18..0000000
+--- a/README.md
++++ /dev/null
+@@ -1,2 +0,0 @@
+-# Asuka
+-Asuka
+diff --git a/hello.txt b/hello.txt
+new file mode 100644
+index 0000000..e69de29
