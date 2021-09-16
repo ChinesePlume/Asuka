@@ -1,5 +1,0 @@
-total 16
--rw-r--r--  1 solzhang  staff  434  9 16 22:11 git.test.dev.txt
--rw-r--r--  1 solzhang  staff  188  9 16 22:11 git.test2.dev.txt
--rw-r--r--  1 solzhang  staff    0  9 16 22:22 git.test4.dev.txt
--rw-r--r--  1 solzhang  staff    0  9 16 22:02 hello.txt
